@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lab3.SkipList\Lab3.SkipList.csproj" />
+    <ProjectReference Include="..\Lab4_Timer\Lab4_Timer.csproj" />
+    <ProjectReference Include="..\Lab6.BinomialTree\Lab6.BinomialTree.csproj" />
+  </ItemGroup>
+
+</Project>
